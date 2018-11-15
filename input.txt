@@ -1,0 +1,10 @@
+юрмаa/ "ящеров "яяером" ящеру!
+
+
+Phrase corrigee :
+юрма/a ящерові ящером ящеру
+	
+юрмаa\   : Inversement a\ pour \a
+"ящеров  : Suppression de i, et guillemet a gauche
+"ящерaм" : Echange щ pour я et 2 guillemets
+ящеру	 : Mot dans le dictionnaire, avec une ponctuation a droite (!)
